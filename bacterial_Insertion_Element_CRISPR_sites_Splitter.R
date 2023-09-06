@@ -13,7 +13,7 @@ bacterial_Insertion_Element_CRISPR_sites_Splitter <- function(fasta_files, patte
     # bacterial_Insertion_Element_Splitter(
     # "/Users/gauravsablok/Desktop/CodeBase/check.fasta",
     #     "GCAGCGTACGATATATAT")
-      fasta_read <- readDNAStringSet(fasta_files)
+    fasta_read <- readDNAStringSet(fasta_files)
     insertionelement <- pattern
     fasta_names <- names(fasta_read)
     fasta_sequences <- vector(length = length(fasta_names))
