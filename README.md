@@ -5,7 +5,7 @@ A faster implementation of the string search for the check of the insertion elem
 bacterial_Insertion_Element_Splitter("/Users/gauravsablok/Desktop/CodeBase/check.fasta",
     "GCAGCGTACGATATATAT")
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
